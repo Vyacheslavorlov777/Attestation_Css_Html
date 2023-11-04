@@ -1,0 +1,50 @@
+@font-face {
+    font-family: "Poppins";
+    src: url(/Components/fonts/Poppins/Poppins-Black.ttf);
+    font-family: "PoppinsBold";
+    src: url(/Components/fonts/Poppins/Poppins-Bold.ttf);
+    font-family: "Jost";
+    src: url(/Components/fonts/Jost/Jost-Black.ttf);
+    font-family: "JostBold";
+    src: url(/Components/fonts/Jost/Jost-Bold.ttf);
+}
+
+body {
+    font-family: "Poppins"
+}
+
+.text {
+    width: 100%;
+    border-cpasing: 0;
+}
+
+td {
+    width: 143px;
+    padding-right: 30px;
+    line-height: 45px;
+}
+
+.right {
+    font-family: "Poppins";
+    color: #686565;
+    text-align: right;
+    font-size: 30px;
+    margin-left: 20px;
+}
+.logo {
+    font-family: "PoppinsBold";
+    font-size: 48px;
+    padding-left: 78px;
+    color: #0E0578;
+}
+
+footer {
+    font-family: "Jost";
+}
+
+
+
+.colums {
+    columns: 616px 2;
+
+}
