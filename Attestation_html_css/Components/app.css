@@ -1,21 +1,21 @@
 @font-face {
     font-family: "Poppins";
-    src: url(/Components/fonts/Poppins/Poppins-Black.ttf);
+    src: url("/Components/fonts/Poppins/Poppins-Black.ttf");
 }
 
 @font-face {
     font-family: "PoppinsBold";
-    src: url(/Components/fonts/Poppins/Poppins-Bold.ttf);
+    src: url("/Components/fonts/Poppins/Poppins-Bold.ttf");
 }
 
 @font-face {
     font-family: "Jost";
-    src: url(/Components/fonts/Jost/Jost-Black.ttf);
+    src: url("/Components/fonts/Jost/Jost-Black.ttf");
 }
 
 @font-face {
     font-family: "JostBold";
-    src: url(/Components/fonts/Jost/Jost-Bold.ttf);
+    src: url("/Components/fonts/Jost/Jost-Bold.ttf");
 }
 
 body {
